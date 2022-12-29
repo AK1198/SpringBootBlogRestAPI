@@ -1,2 +1,2 @@
 # SpringBootBlogRestAPI
- A blog porject using REST API
+ A blog project using REST API
